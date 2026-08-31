@@ -2,5 +2,5 @@ url: https://github.com/yangdongzhen590/dsh-knj-extension-center
 name: yangdongzhen590/dsh-knj-extension-center
 category: skill
 description:
-  en: 'DSH skill center: browse skills by region, install from zip, enable/disable, uninstall, trash-restore and search. Its sidebar entry is provided by dsh-knj-menu; install dsh-knj-menu first.'
-  zh: 'DSH 技能中心：按地区浏览技能、从 zip 安装、启停/卸载/回收站恢复与搜索。侧边栏入口由 dsh-knj-menu 提供，请先安装 dsh-knj-menu。'
+  en: 'DSH skill center: browse skills by region, install from zip, enable/disable, uninstall, trash-restore and search. Its sidebar entry is provided by dsh-knj-menu; install together: dsh plugin add dsh-knj-extension-center dsh-knj-menu.'
+  zh: 'DSH 技能中心：按地区浏览技能、从 zip 安装、启停/卸载/回收站恢复与搜索。侧边栏入口由 dsh-knj-menu 提供，一条命令安装：dsh plugin add dsh-knj-extension-center dsh-knj-menu。'

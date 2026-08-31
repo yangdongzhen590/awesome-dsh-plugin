@@ -1,0 +1,6 @@
+url: https://github.com/yangdongzhen590/dsh-knj-session-management
+name: yangdongzhen590/dsh-knj-session-management
+category: session
+description:
+  en: 'Session management for DSH: archive/restore/delete persisted sessions, per-workspace retention policy and a size governance panel. Its sidebar entry is provided by dsh-knj-menu; install together: dsh plugin add dsh-knj-session-management dsh-knj-menu.'
+  zh: '会话管理：归档/恢复/删除持久化会话，按工作区保留策略与体积治理面板。侧边栏入口由 dsh-knj-menu 提供，一条命令安装：dsh plugin add dsh-knj-session-management dsh-knj-menu。'
